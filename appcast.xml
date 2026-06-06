@@ -9,19 +9,6 @@
         <language>en</language>
         <item>
             <title>Version 1.0.0</title>
-            <pubDate>Sat, 06 Jun 2026 13:10:41 +0000</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[See the full release notes on <a href="https://github.com/speakaway/speakaway-updates/releases/tag/uat-v1.0.0">GitHub Releases</a>]]></description>
-            <enclosure
-                url="https://github.com/speakaway/speakaway-updates/releases/download/uat-v1.0.0/Speakaway-UAT-1.0.0.dmg"
-                sparkle:edSignature="BjAl16czdgAJQOO7piZYL1Dn2hqHdKrTeMpOCiP21moDfRXN5IM0+DYWtHOFTq31R83rdgZBL9ZTNxgREJ+3Cw=="
-                length="39407601"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.0</title>
             <pubDate>Sat, 06 Jun 2026 14:26:34 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
