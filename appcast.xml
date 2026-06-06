@@ -20,5 +20,18 @@
                 length="39408418"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Sat, 06 Jun 2026 15:29:50 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Fix update notification showing on first launch]]></description>
+            <enclosure
+                url="https://github.com/speakaway/speakaway-updates/releases/download/v1.0.1/Speakaway-1.0.1.dmg"
+                sparkle:edSignature="lr/27/gTTMgWEMnkqCzIUu6GOXpNwZnGZli8u1jTDJtEEJPmvnit2cQpxh6cU45Zx9IM48Uvwl8oRe/8ifh3AA=="
+                length="39407882"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
